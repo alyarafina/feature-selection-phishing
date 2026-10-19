@@ -1,4 +1,4 @@
-# Phishing URL Classification with Filter-Based Feature Selection: Random Forest and DNN
+# Comparison of Filter-Based Feature Selection for Phishing URL Detection Using Random Forest and DNN
 
 This repository contains the Jupyter Notebook developed for a study investigating feature selection strategies in machine-learning-based phishing URL classification. The experiments examine how Chi-Square, ANOVA F-test, and Mutual Information perform when paired with Random Forest and Deep Neural Network (DNN) classifiers.
 
