@@ -16,13 +16,6 @@ The experiments are based on the [PhiUSIIL Phishing URL Dataset](https://archive
 
 The dataset is not stored in this repository. Users should download it from the original source and comply with the applicable data-use conditions.
 
-## Project Files
-
-| File | Purpose |
-|---|---|
-| `Comparison-Feature-Selection-Phising.ipynb` | Implements data preparation, feature ranking, classification experiments, and model evaluation |
-| `LICENSE` | Defines the terms governing use and distribution of the project code |
-
 ## Experimental Setup
 
 The notebook evaluates the following components:
