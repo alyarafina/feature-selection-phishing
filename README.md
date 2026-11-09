@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter Notebook for a study that compares three filter-based feature selection methods (Chi-Square, ANOVA F-test, and Mutual Information) combined with Random Forest and a Deep Neural Network (`MLPClassifier`) on the PhiUSIIL Phishing URL Dataset.
 
-The notebook used in the revised manuscript is **`Comparative-Feature-Selection-Phising.ipynb`**. `Comparison-Feature-Selection-Phising.ipynb` is the earlier version and is kept for reference only.
+All experiments are in **`Comparative-Feature-Selection-Phising.ipynb`**. The earlier version of the notebook remains available in release v1.1.0.
 
 ## Research Team
 
