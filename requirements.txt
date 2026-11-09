@@ -1,8 +1,11 @@
-numpy
-pandas
-scikit-learn
-matplotlib
-seaborn
+# Versions used to produce the reported results are listed in README.md.
+numpy>=2.3
+pandas>=3.0
 scipy
-joblib
-tensorflow
+scikit-learn>=1.9
+matplotlib>=3.10
+seaborn>=0.13
+joblib>=1.5
+tldextract>=5.4
+ucimlrepo>=0.0.7
+jupyter
